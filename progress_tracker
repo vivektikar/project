@@ -1,9 +1,14 @@
 Read the instructions given in puzzle by C42 team. 
 Read about Conways problem and tried to understand it.
-Rough plan for  assignment submission:
-22nd may : 1. Understand the problem completely.
+ plan for  assignment submission on 22nd may :
+           1. Understand the problem completely.
            2. Complete the set up for ruby.
            3. execute the programme and overview the bugs in the specification.
            4. overview the code.
-23rd may : Understanding basic syntax of ruby and try executing the simple ruby code from internet.           
-24th may :.....
+
+current progress:
+23rd may : 1. Understanding basic syntax of ruby and try executing the simple ruby code from internet.
+           2. Trying to learn advance part of ruby
+           3. Now I am learning about canvas and trying to execute and understand the codes for rectangle and lines creation in ruby
+              using canvas.
+           4. Experimenting on ruby canvas codes.
