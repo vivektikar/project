@@ -1,5 +1,5 @@
 
-idont know syntax of ruby so,I have studied this code from internet and its working and discription is as follows as per my 
+I dont know syntax of ruby as I am new to it so,I have studied this code from internet and its working and discription is as follows as per my 
 understanding:
 
 #class GameOfLife::Cell
