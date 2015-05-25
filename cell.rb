@@ -32,5 +32,5 @@ Working:\
 generated no then cell will be initialize to live state ('o') else dead  state(' ').
 3.in def next! variable alive will be initialize depending on no. of live neighbors 
 (@alive = @alive ? (2..3) === @neighbors : 3 == @neighbors)
-4.in def to_s it finds what should be the state of cell at next step and accordingly it will print 'o' or blank
+4.in def to_s it finds what should be the state of cell at next step and accordingly it will print 'o'(live) or blank(dead).
 end of class.
