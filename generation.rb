@@ -13,4 +13,4 @@ end
 working:
 1. let location is a probability provided by calling function prsent in other class
 2. @alive = location>rand =>  decides weather cell shoul be alive or dead depending on randomly generated no by rand.
-3. if cell is alive then it is made  black or in our code we put 'o' instead.
+3. if cell is alive then it is made  black or in our code we put 'X' instead.
